@@ -1,0 +1,2 @@
+- Sim: ID, SoSim, MangID, NgayKichHoat, NgayHetHan
+- Mang: ID, TenMangCreate database SimThego use  SimThegocreate table Mang(	ID varchar(20) primary key,	TenMang nvarchar(50))create table Sim(		SoSim varchar(20) primary key, 	MangID varchar(20), 	NgayKichHoat date, NgayHetHan date,	ID varchar(20),	foreign key (ID) references Mang(ID))insert into Sim values ('123', '123' ,'01-01-2020', '01-01-2021', 1), ('1233', '1233' ,'01-05-2020', '05-01-2021', 1)

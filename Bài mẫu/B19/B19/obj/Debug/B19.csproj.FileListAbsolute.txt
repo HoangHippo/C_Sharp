@@ -1,0 +1,10 @@
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\bin\Debug\B19.exe.config
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\bin\Debug\B19.exe
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\bin\Debug\B19.pdb
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\obj\Debug\B19.Form1.resources
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\obj\Debug\B19.Properties.Resources.resources
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\obj\Debug\B19.csproj.GenerateResource.cache
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\obj\Debug\B19.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\obj\Debug\B19.exe
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\obj\Debug\B19.pdb
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B19\B19\obj\Debug\B19.csprojAssemblyReference.cache

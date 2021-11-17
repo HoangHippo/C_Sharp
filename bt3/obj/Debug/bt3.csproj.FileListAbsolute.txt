@@ -1,0 +1,7 @@
+D:\.NET\bt3\bin\Debug\bt3.exe.config
+D:\.NET\bt3\bin\Debug\bt3.exe
+D:\.NET\bt3\bin\Debug\bt3.pdb
+D:\.NET\bt3\obj\Debug\bt3.csprojAssemblyReference.cache
+D:\.NET\bt3\obj\Debug\bt3.csproj.CoreCompileInputs.cache
+D:\.NET\bt3\obj\Debug\bt3.exe
+D:\.NET\bt3\obj\Debug\bt3.pdb

@@ -1,0 +1,9 @@
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\b13\b13\bin\Debug\b13.exe.config
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\b13\b13\bin\Debug\b13.exe
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\b13\b13\bin\Debug\b13.pdb
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\b13\b13\obj\Debug\b13.Form1.resources
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\b13\b13\obj\Debug\b13.Properties.Resources.resources
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\b13\b13\obj\Debug\b13.csproj.GenerateResource.cache
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\b13\b13\obj\Debug\b13.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\b13\b13\obj\Debug\b13.exe
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\b13\b13\obj\Debug\b13.pdb

@@ -1,0 +1,10 @@
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\bin\Debug\B20.exe.config
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\bin\Debug\B20.exe
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\bin\Debug\B20.pdb
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\obj\Debug\B20.csprojAssemblyReference.cache
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\obj\Debug\B20.Form1.resources
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\obj\Debug\B20.Properties.Resources.resources
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\obj\Debug\B20.csproj.GenerateResource.cache
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\obj\Debug\B20.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\obj\Debug\B20.exe
+C:\Users\Acer\Dropbox\My PC (LAPTOP-JSV9TQI0)\Desktop\EPU\.NET\OnTap\B20\B20\obj\Debug\B20.pdb

@@ -1,0 +1,10 @@
+D:\.NET\Last\b14\bin\Debug\b14.exe.config
+D:\.NET\Last\b14\bin\Debug\b14.exe
+D:\.NET\Last\b14\bin\Debug\b14.pdb
+D:\.NET\Last\b14\obj\Debug\b14.csproj.AssemblyReference.cache
+D:\.NET\Last\b14\obj\Debug\b14.Form1.resources
+D:\.NET\Last\b14\obj\Debug\b14.Properties.Resources.resources
+D:\.NET\Last\b14\obj\Debug\b14.csproj.GenerateResource.cache
+D:\.NET\Last\b14\obj\Debug\b14.csproj.CoreCompileInputs.cache
+D:\.NET\Last\b14\obj\Debug\b14.exe
+D:\.NET\Last\b14\obj\Debug\b14.pdb

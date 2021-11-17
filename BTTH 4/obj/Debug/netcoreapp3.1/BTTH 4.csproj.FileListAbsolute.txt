@@ -1,0 +1,13 @@
+D:\.NET\BTTH 4\bin\Debug\netcoreapp3.1\BTTH 4.exe
+D:\.NET\BTTH 4\bin\Debug\netcoreapp3.1\BTTH 4.deps.json
+D:\.NET\BTTH 4\bin\Debug\netcoreapp3.1\BTTH 4.runtimeconfig.json
+D:\.NET\BTTH 4\bin\Debug\netcoreapp3.1\BTTH 4.runtimeconfig.dev.json
+D:\.NET\BTTH 4\bin\Debug\netcoreapp3.1\BTTH 4.dll
+D:\.NET\BTTH 4\bin\Debug\netcoreapp3.1\BTTH 4.pdb
+D:\.NET\BTTH 4\obj\Debug\netcoreapp3.1\BTTH 4.csprojAssemblyReference.cache
+D:\.NET\BTTH 4\obj\Debug\netcoreapp3.1\BTTH 4.AssemblyInfoInputs.cache
+D:\.NET\BTTH 4\obj\Debug\netcoreapp3.1\BTTH 4.AssemblyInfo.cs
+D:\.NET\BTTH 4\obj\Debug\netcoreapp3.1\BTTH 4.csproj.CoreCompileInputs.cache
+D:\.NET\BTTH 4\obj\Debug\netcoreapp3.1\BTTH 4.dll
+D:\.NET\BTTH 4\obj\Debug\netcoreapp3.1\BTTH 4.pdb
+D:\.NET\BTTH 4\obj\Debug\netcoreapp3.1\BTTH 4.genruntimeconfig.cache

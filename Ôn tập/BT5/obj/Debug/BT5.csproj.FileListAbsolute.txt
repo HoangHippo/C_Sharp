@@ -1,0 +1,10 @@
+D:\.NET\Ôn tập\BT5\bin\Debug\BT5.exe.config
+D:\.NET\Ôn tập\BT5\bin\Debug\BT5.exe
+D:\.NET\Ôn tập\BT5\bin\Debug\BT5.pdb
+D:\.NET\Ôn tập\BT5\obj\Debug\BT5.csproj.AssemblyReference.cache
+D:\.NET\Ôn tập\BT5\obj\Debug\BT5.Form1.resources
+D:\.NET\Ôn tập\BT5\obj\Debug\BT5.Properties.Resources.resources
+D:\.NET\Ôn tập\BT5\obj\Debug\BT5.csproj.GenerateResource.cache
+D:\.NET\Ôn tập\BT5\obj\Debug\BT5.csproj.CoreCompileInputs.cache
+D:\.NET\Ôn tập\BT5\obj\Debug\BT5.exe
+D:\.NET\Ôn tập\BT5\obj\Debug\BT5.pdb
